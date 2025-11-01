@@ -78,10 +78,6 @@ Its transformer backbone allows it to model spatial relationships between player
 
 ## Reference
 
-This project follows the approach described in the blog post:
-
-> **"Detect Players with RF-DETR"**  
-> *The first step is object detection. We use RF-DETR-S because it offers the best balance of speed and accuracy for our task...*  
 
 For more details about RF-DETR and fine-tuning methods, visit the [official RF-DETR GitHub repository](https://github.com/coreDaemon/rf-detr).
 
