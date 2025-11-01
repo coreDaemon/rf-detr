@@ -12,7 +12,7 @@ In this project, we fine-tuned **RF-DETR-S**, a smaller and faster version of th
 
 ## Dataset
 
-**Source:** [Roboflow Basketball Dataset](https://app.roboflow.com/coredaemonml/basketball-13eae/1)  
+**Source:** [Dataset](https://app.roboflow.com/coredaemonml/basketball-13eae/1)  
 **Classes:**  
 1. ball  
 2. ball-in-basket  
